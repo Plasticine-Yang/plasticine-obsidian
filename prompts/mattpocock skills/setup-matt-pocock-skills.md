@@ -6,4 +6,5 @@
 4. 不为 UI 加任何单测
 5. commit 用中文
 6. 开发完 commit
+7. 使用 worktree 时，放在 .worktrees 目录下，并把 .worktrees 目录 git ignore
 ```
