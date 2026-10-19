@@ -1,4 +1,8 @@
 {
   "trashOption": "none",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": false
 }
