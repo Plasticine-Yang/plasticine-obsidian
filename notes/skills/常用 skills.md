@@ -7,14 +7,13 @@
 skills add tt-a1i/archify -y -g -a universal
 skills add QingYunA/answer-me-with-html -y -g -a universal
 skills add mattpocock/skills -y -g -a universal -s retro writing-for-agents handoff
-skills add Leonxlnx/taste-skill -y -g -a universal -s design-taste-frontend
 skills add Plasticine-Yang/skills -y -g -a universal -s answer-me-with-text align-first
 ```
 
 ## 项目
 
 ```shell
-skills add mattpocock/skills -y -a universal -s ask-matt code-review codebase-design diagnosing-bugs domain-modeling grill-me grill-with-docs grilling handoff implement implement-spec improve-codebase-architecture pr prototype research retro setup-matt-pocock-skills tdd teach to-questionnaire to-spec to-tickets triage wait-what wayfinder wizard writing-for-agents
+skills add nextlevelbuilder/ui-ux-pro-max-skill -y -a universal -s banner-design brand design design-system slides ui-styling ui-ux-pro-max
 ```
 
 # skills 列表
@@ -24,6 +23,7 @@ skills add mattpocock/skills -y -a universal -s ask-matt code-review codebase-de
 - `oil-ui`:  https://github.com/oil-oil/oil-ui
 - `emilkowalski/skills`: https://github.com/emilkowalski/skills
 - `taste`: https://github.com/leonxlnx/taste-skill
+- `ui-ux-pro-max-skill`: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 
 ## 工作流
 
