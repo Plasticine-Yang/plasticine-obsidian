@@ -7,6 +7,7 @@
 skills add tt-a1i/archify -y -g -a universal
 skills add QingYunA/answer-me-with-html -y -g -a universal
 skills add mattpocock/skills -y -g -a universal -s retro writing-for-agents handoff
+skills add Leonxlnx/taste-skill -y -g -a universal -s design-taste-frontend
 skills add Plasticine-Yang/skills -y -g -a universal -s answer-me-with-text align-first
 ```
 
@@ -22,6 +23,7 @@ skills add mattpocock/skills -y -a universal -s ask-matt code-review codebase-de
 
 - `oil-ui`:  https://github.com/oil-oil/oil-ui
 - `emilkowalski/skills`: https://github.com/emilkowalski/skills
+- `taste`: https://github.com/leonxlnx/taste-skill
 
 ## 工作流
 
