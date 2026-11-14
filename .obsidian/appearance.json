@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "theme": "system",
-  "translucency": false
+  "translucency": false,
+  "showRibbon": true
 }

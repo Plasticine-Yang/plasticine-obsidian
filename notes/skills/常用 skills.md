@@ -8,6 +8,7 @@ skills add tt-a1i/archify -y -g -a universal
 skills add QingYunA/answer-me-with-html -y -g -a universal
 skills add mattpocock/skills -y -g -a universal -s retro writing-for-agents handoff
 skills add Plasticine-Yang/skills -y -g -a universal -s answer-me-with-text align-first
+skills add nextlevelbuilder/ui-ux-pro-max-skill -y -g -a universal -s banner-design brand design design-system slides ui-styling ui-ux-pro-max
 ```
 
 ## 项目
